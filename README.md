@@ -20,7 +20,7 @@ The assumptions of the work included:
 plotting the sedimentation profile (3.3.1),
 - *NumPy* - calculation of average pixel values, polynomial regression, or searching for minimum, maximum or significant values for the analysis (1.20.2),
 - *SciPy* - ﬁltration of data with a Savitzky-Golay filter, median filter and to obtain the best polynomial coefficients of the control sample
-- other built-in libraries, such as: os, math, copy
+- other built-in libraries, such as: *os*, *math*, *copy*.
 
 # Workplace and research material:
 ## Material:

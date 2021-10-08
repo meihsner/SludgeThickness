@@ -1,6 +1,6 @@
 # SludgeThickness
 The main goal of the master's thesis was to develop a new algorithm using the vision method and laser beam illumination,
-allowing to estimate the thickness of the sediment in the reservoir to a greater extent, without interfering with the studied environment.
+allowing to estimate thickness of the sediment in the reservoir to a greater extent, without interfering with the studied environment.
 The assumptions of the work included:
 - selection of the optimal method of measuring the thickness of the sediment in the tank,
 - selection of parameters and time points for image acquisition,
